@@ -16,5 +16,6 @@ Além de ler os arquivos, interessante procurar por metadados utilizando ferrame
 
 
 ### Contribuição
+Como Contribuir
 - Sugestão de Feature
 - Reportar um bug
