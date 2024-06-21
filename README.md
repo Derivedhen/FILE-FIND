@@ -13,3 +13,8 @@ python3 filefind.py dominio.com.br asp
 
 ### DICA
 Além de ler os arquivos, interessante procurar por metadados utilizando ferramentas como exiftool. Assim terá mais informações para trabalhar
+
+
+### Contribuição
+- Sugestão de Feature
+- Reportar um bug
